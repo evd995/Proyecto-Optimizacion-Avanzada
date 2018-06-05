@@ -5,8 +5,10 @@ donde sólo se nos entrega parte de la información. Para esto, busca soluciones
 Un gran campo de aplicación de este problema es en el análisis y reconstrucción de imágenes, donde
 ha tenido un gran desarrollo. En este proyecto buscaremos resolver de forma efiente una variación de este
 problema.
+
 Tomemos un video estático cualquiera. Es decir que el fondo permanece relativamente fijo y casi sin
 movimiento por la mayor parte del tiempo. Supongamos que dentro del video existe un movimiento específico
 en algún lugar de la imagen (por ejemplo, un hombre cruza una calle). Si los cuerpos en movimiento dentro
 del video no ocupan una gran cantidad del espacio de la imagen, buscamos separar el fondo estático del
 primer plano, es decir, los cuerpos en movimiento del fondo fijo.
+
