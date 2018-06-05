@@ -1,4 +1,4 @@
-# Proyecto Optimizacion Avanzada
+# Proyecto Optimización Avanzada
 
 El problema de compressed sensing se trata de procesar y reconstruir una se~nal a partir de una muestra
 donde sólo se nos entrega parte de la información. Para esto, busca soluciones a sistemas lineales indeterminados.
